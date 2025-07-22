@@ -15,7 +15,7 @@ Amersveen heeft verschillende discord servers die zijn goed gekeurd door het sta
 
 | Server | Beschrijving | Invite link |
 |---|---|:---:|
-|Amersveen RolePlay| Main discord server van Amersveen | [Invite](https://discord.gg/amersveenrp) |
+|Amersveen RolePlay| Main discord server van Amersveen | [Invite](https://discord.gg/amersveen) |
 |Amersveen Support| Support discord server van Amersveen | [Invite](https://discord.gg/29JG8WwrAy) |
 |Amersveen Onderwereld| Onderwereld discord server van Amersveen | [Invite](https://discord.gg/7ANf8GFe8J) |
 |Amersveen Overheid| Overheid discord server van Amersveen | [Invite](https://discord.gg/PcSSJ8kdFy) |
