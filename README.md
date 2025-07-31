@@ -1,2 +1,2 @@
 # AMAPV
-Algemene Plaatselijke Verordening - Amersveen Roleplay
+Algemene Plaatselijke Verordening - Paradise Roleplay

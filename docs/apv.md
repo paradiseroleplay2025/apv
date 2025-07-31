@@ -1,18 +1,18 @@
-# Algemene Plaatselijke Verordening Amersveen
+# Algemene Plaatselijke Verordening Paradise
 
 ## Wetstechnische informatie
 
 ### Wet van 16 juli 2025
 
-Wij, de Beheersleden der Amersveen, bij de gratie Gods, enz., enz., enz.
+Wij, de Beheersleden der Paradise, bij de gratie Gods, enz., enz., enz.
 
-Aangezien wij in overweging hebben genomen dat het noodzakelijk is een nieuwe **Algemene Plaatselijke Verordening Amersveen (APV)** vast te stellen:
+Aangezien wij in overweging hebben genomen dat het noodzakelijk is een nieuwe **Algemene Plaatselijke Verordening Paradise (APV)** vast te stellen:
 
 | **Kenmerk**                | **Details**                          |
 |----------------------------|--------------------------------------|
-| Overheidsorganisatie       | Staff der Amersveen                |
-| Officiële naam regeling    | Algemene Plaatselijke Verordening Amersveen |
-| Citeertitel                | Algemene Plaatselijke Verordening Amersveen |
+| Overheidsorganisatie       | Staff der Paradise                |
+| Officiële naam regeling    | Algemene Plaatselijke Verordening Paradise |
+| Citeertitel                | Algemene Plaatselijke Verordening Paradise |
 | Vastgesteld door           | De Beheersleden                       |
 | Onderwerp                  | Openbare orde en veiligheid         |
 
@@ -20,7 +20,7 @@ Aangezien wij in overweging hebben genomen dat het noodzakelijk is een nieuwe **
 
 ### Opmerkingen met betrekking tot de verordening
 
-Het Wetboek van Strafrecht, specifiek bedoeld voor Amersveen, wordt hierbij overschreven door deze APV.
+Het Wetboek van Strafrecht, specifiek bedoeld voor Paradise, wordt hierbij overschreven door deze APV.
 
 ---
 
@@ -28,7 +28,7 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor Amersveen, wordt hierbij over
 
 ### **A-1 - Reikwijdte**
 
-1. Deze Algemene Plaatselijke Verordening, hierna te noemen **APV**, is bedoeld als aanvulling op het Nederlands Recht en heeft betrekking op het eiland, de gemeente en de stad Amersveen.
+1. Deze Algemene Plaatselijke Verordening, hierna te noemen **APV**, is bedoeld als aanvulling op het Nederlands Recht en heeft betrekking op het eiland, de gemeente en de stad Paradise.
 2. De APV biedt een indicatief kader voor eventuele bestraffing in-game (“in RP”), maar is verder bedoeld voor het afhandelen van straffen buiten de RP om.
 
 ### **A-2 - Geldigheid**
@@ -181,12 +181,12 @@ Mocht het slachtoffer een vuurwapen hebben, dan is medewerking niet verplicht.
 
 2. Het is niet toegestaan externe discords te gebruiken voor roleplay-gerelateerde zaken zonder toestemming van de staff.
     * **Eigenaren van deze Discord-servers** worden bestraft volgens **Categorie 7**.
-    * Tijdens voicechats met andere spelers van Amersveen geldt:
+    * Tijdens voicechats met andere spelers van Paradise geldt:
         * Streamen is niet toegestaan.
         * Je moet gedeafened en gemute zijn.
     * Het streamen van de main server in een Discord-server is verboden, tenzij expliciet goedgekeurd door de staff.
     * Bij ontsnappingen (Art. 25 APV) geldt hetzelfde videobewijsvereiste als bij lid 1.
-    * In calls zitten met je vrienden die geen Amersveen spelen is ook verboden.
+    * In calls zitten met je vrienden die geen Paradise spelen is ook verboden.
     * Het is toegestaan om in Discord via een "ic-bewijs" kanaal, bewijs te delen in Discord. Dit bewijs moet opgenomen zijn met een bodycam (360 graden), dashcam (voor/achter) en/of telefoon in de hand (360 graden).
 
 → **Sanctie:** Categorie 1.
@@ -215,8 +215,8 @@ Mocht het slachtoffer een vuurwapen hebben, dan is medewerking niet verplicht.
 1. Bij het aanmaken van je personage moet de kleding worden aangepast. Het is niet toegestaan om met standaard startkleding de server te betreden. Het personage dient een realistische uitstraling te hebben, waarbij de outfit klopt (inclusief armen) en er geen lichaamsdelen ontbreken.
 2. De kleding die door de werkgever is verstrekt voor het uitvoeren van het beroep moet gedragen worden.
 3. Het dragen van kleding van overheidsbanen door niet-ambtenaren is verboden, tenzij hier een goedgekeurde roleplay door een stafflid aan verbonden is.
-4. Officiële Amersveen-kleding, bedoeld voor specifieke groeperingen, mag niet door anderen worden gebruikt of als startkleding worden gekozen, tenzij er een sterke en goedgekeurde roleplay aan verbonden is.
-5. Kleding die aangekocht is via de Amersveen website mag wel gedragen worden door iedereen. (Op eigen risico)
+4. Officiële Paradise-kleding, bedoeld voor specifieke groeperingen, mag niet door anderen worden gebruikt of als startkleding worden gekozen, tenzij er een sterke en goedgekeurde roleplay aan verbonden is.
+5. Kleding die aangekocht is via de Paradise website mag wel gedragen worden door iedereen. (Op eigen risico)
 
 → **Sanctie:** eerst een mondelinge waarschuwing. Bij het niet aanpassen volgt een straf volgens Categorie 1.
 
@@ -233,7 +233,7 @@ Mocht het slachtoffer een vuurwapen hebben, dan is medewerking niet verplicht.
 
 ### **Artikel 15 - Talen in de stad**
 
-1. De voertalen op Amersveen zijn **Nederlands** en **Engels**.
+1. De voertalen op Paradise zijn **Nederlands** en **Engels**.
 2. Andere talen mogen niet provocerend of beledigend worden gebruikt tijdens roleplay.
 3. Tijdens gesprekken met staff of overheidsfunctionarissen moet Nederlands worden gesproken. Als een persoon geen Nederlands spreekt, moet er iemand aanwezig zijn die namens hem in het Nederlands communiceert.
 
@@ -294,7 +294,7 @@ Mocht het slachtoffer een vuurwapen hebben, dan is medewerking niet verplicht.
 
 ### **Artikel 20 - Belediging**
 
-1. Het gebruik van beledigingen met betrekking tot relevante/hedendaagse ziektes, racistische of ongepaste opmerkingen is verboden op alle door Amersveen erkende platformen.
+1. Het gebruik van beledigingen met betrekking tot relevante/hedendaagse ziektes, racistische of ongepaste opmerkingen is verboden op alle door Paradise erkende platformen.
 
 → **Sanctie:**
     **Eerste overtreding:** Twee weken ban.
@@ -461,7 +461,7 @@ Uitzondering kan gegeven worden door het Crimineel Aanspreekpunt.
 1. Het misleiden of bedriegen met betrekking tot loodsen is verboden.
 2. De verhuur van sleutels voor loodsen is toegestaan.
 3. Het verhandelen van aandelen in loodsen is toegestaan.
-4. Alle overeenkomsten met betrekking tot loodsen moeten schriftelijk worden vastgelegd en gedocumenteerd in de stad Amersveen met het commando /docu, en dienen te worden ondertekend door alle betrokken partijen.
+4. Alle overeenkomsten met betrekking tot loodsen moeten schriftelijk worden vastgelegd en gedocumenteerd in de stad Paradise met het commando /docu, en dienen te worden ondertekend door alle betrokken partijen.
 5. In geval van onduidelijkheid over de bepalingen van lid 2 of 3, zal het oordeel van een staflid leidend zijn, en dit staflid zal beslissen over de verdeling van de loods. De partij die beweert benadeeld te zijn, dient bewijsmateriaal te overleggen en draagt de verantwoordelijkheid voor de bewijslast.
 6. Indien een loods en eigenaar beide minimaal 120 dagen inactief zijn, kan SA+ deze loods opnieuw beschikbaar maken voor het publiek.
 
@@ -589,4 +589,4 @@ Het doel van deze samenwerking is [korte omschrijving van de samenwerking].
 ```
 
 ---
-APV opgesteld uit naam van de beheersleden, bedoeld voor het eiland, de gemeente en de stad Amersveen, opgetekend door Ali Ilegalie - medal.exe, te Amersveen.
+APV opgesteld uit naam van de beheersleden, bedoeld voor het eiland, de gemeente en de stad Paradise, opgetekend door Ali Ilegalie - medal.exe, te Paradise.
